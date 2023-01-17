@@ -6,7 +6,7 @@ My name is Ali Qureshi and I am current pursuing a Master's in Computer Science 
 
 
 
-## Skills <img src="https://cdn.emojidex.com/emoji/seal/Ruby.png" alt="Ruby" width="20rem"/>
+## Skills <img src="https://cdn.emojidex.com/emoji/seal/Ruby.png" alt="Ruby" width="20rem" style="margin-left:5px"/>
 - Front-end and back-end applications using technologies such as React, NodeJS, Python, Django, Flask, Ruby and Ruby on Rails.
 - Experience working with NodeJS and building APIs and server-side logic.
 - Familiar with database technologies such as MySQL, MongoDB and PostgreSQL.
