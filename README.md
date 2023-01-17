@@ -1,5 +1,10 @@
 ## About Me  👨🏻‍💻
-My name is Ali Qureshi and I am current pursuing a Master's in Computer Science at NC State. I am a software developer with a wide range of experience in front-end and back-end development using technologies such as React, NodeJS, Python, Django, Flask, Ruby and Ruby on Rails. I am well-versed in full-stack web development and always excited to work on new projects using different languages and frameworks.
+
+<img src="./gopher-removebg-preview.png" alt="GO gopher" width="20%" align="right"/>
+
+My name is Ali Qureshi and I am current pursuing a Master's in Computer Science at NC State. I am a software developer with a wide range of experience in  front-end and back-end development using technologies such as React, NodeJS, Python, Django, Flask, Ruby and Ruby on Rails. I am well-versed in full-stack web development and always excited to work on new projects using different languages and frameworks.
+
+
 
 ## Skills  🌱
 - Front-end and back-end applications using technologies such as React, NodeJS, Python, Django, Flask, Ruby and Ruby on Rails.
